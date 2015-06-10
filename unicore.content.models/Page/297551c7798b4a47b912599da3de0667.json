@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Credits", 
+  "description": "Shukrani (Credits)", 
   "language": "swa_TZ", 
   "title": "Shukrani", 
   "primary_category": null, 
   "created_at": "2015-06-10T11:05:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-10T11:06:40.868283+00:00", 
+  "modified_at": "2015-06-10T11:08:17.274947+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "credits", 
   "uuid": "297551c7798b4a47b912599da3de0667"
